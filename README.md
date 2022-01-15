@@ -30,7 +30,8 @@
 ```
 
 별안간 링크공개
-<github.com/bon0bon9>
+
+<http://github.com/bon9bon9>
 
 [하이퍼링크로공개](github.com/bon9bon9)
 
